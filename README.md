@@ -9,7 +9,7 @@ Acá estarán todos los archivos relacionados al curso.
 
 Acá un ejemplo de como mostrar una imagen en un readme.
 
-![alt text](./semana%2003/scripts/diagrama.png "Diagrama")
+![alt text](./imagenes/diagrama.png "Diagrama")
 
 
 ## Lenguaje de etiquetado markdown.
