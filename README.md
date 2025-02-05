@@ -1,9 +1,7 @@
 # Curso plataformas abiertas.
 
 ## Descripcion.
-Repositorio del curso plataformas abiertas por el profesor Daniel.
-
-Acá estarán todos los archivos relacionados al curso.
+Repositorio de ejemplo Entraga #1.
 
 ## Ejemplo de como mostrar una imagen.
 
